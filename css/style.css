@@ -165,6 +165,8 @@ ul {
 
 img {
   padding: 10px;
+  max-height: 80%;
+  max-width: 80%;
 }
 
 span {
